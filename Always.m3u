@@ -1,0 +1,4 @@
+#EXTM3U
+#EXTINF:-1 group-title="JioTV+  (TiviMate)",
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+https://cdngb196.useetv.com/joss/15/kbsworld/chunklist_w218427304_b1344100_sleng.m3u8?enc=qLIt-3T6HUuj3hb3QU07Fw&id=YjU3MDc0Y2MxMzcxZDU5NTgxYjc5MjhjYmM2NWVhMjU=&exp=1595527718
